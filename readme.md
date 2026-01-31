@@ -42,7 +42,7 @@ This project is ideal for:
 ---
 
 ## 📂 Project Structure
-
+```text
 enhanced_synthetic_chatroom/
 ├── backend/
 │   ├── app/
@@ -59,6 +59,7 @@ enhanced_synthetic_chatroom/
 ├── chat_data_1.json
 ├── seed_data.py
 └── README.md
+```
 
 ---
 
