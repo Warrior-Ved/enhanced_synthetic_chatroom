@@ -1,0 +1,472 @@
+[
+  {
+    "post_id": 401,
+    "channel": "social",
+    "author": "@ConcernedCitizen_99",
+    "content": "URGENT: Is anyone else receiving texts about a 'Gold Rewards' expiry? 🛑 I just got an SMS claiming my loyalty points will vanish in 24 hours unless I redeem them immediately at 'mashreq-rewards-portal-update.com'. The landing page looks frighteningly legitimate—it has the exact branding, fonts, and even a copyright footer. It asks for card details to 'verify' shipping for the rewards. I almost filled it out before hesitating. #ScamAlert #BankingSecurity #Phishing",
+    "timestamp": "15-02-2026 10:00:00",
+    "comments": [
+      {
+        "comment_id": 1,
+        "parent_comment_id": null,
+        "handler_id": "@FastClicker",
+        "type": "comment",
+        "comment": "Wait, I just got that too! I clicked the link because it looked official. Should I be worried?",
+        "timestamp": "15-02-2026 10:02:15"
+      },
+      {
+        "comment_id": 2,
+        "parent_comment_id": 1,
+        "handler_id": "@TechSavvy101",
+        "type": "reply",
+        "comment": "@FastClicker Call your bank immediately and freeze your cards. Banks NEVER send links like that.",
+        "timestamp": "15-02-2026 10:04:30"
+      },
+      {
+        "comment_id": 3,
+        "parent_comment_id": 2,
+        "handler_id": "@FastClicker",
+        "type": "reply",
+        "comment": "Oh god. On hold with them now. The site asked for my OTP to 'verify' the points. I entered it. 😰",
+        "timestamp": "15-02-2026 10:06:00"
+      },
+      {
+        "comment_id": 4,
+        "parent_comment_id": null,
+        "handler_id": "@SkepticalSam",
+        "type": "comment",
+        "comment": "This is everywhere today. My mom got the same message but from a different number.",
+        "timestamp": "15-02-2026 10:08:45"
+      },
+      {
+        "comment_id": 5,
+        "parent_comment_id": null,
+        "handler_id": "@CryptoKing",
+        "type": "comment",
+        "comment": "These scammers are getting too good. The URL is barely different. Check the SSL certificate next time guys.",
+        "timestamp": "15-02-2026 10:10:20"
+      },
+      {
+        "comment_id": 6,
+        "parent_comment_id": null,
+        "handler_id": "@AngryUser_X",
+        "type": "comment",
+        "comment": "Why isn't the bank posting about this?? They should have sent a warning notification by now if it's this widespread!",
+        "timestamp": "15-02-2026 10:12:10"
+      },
+      {
+        "comment_id": 7,
+        "parent_comment_id": 6,
+        "handler_id": "@ChillGuy22",
+        "type": "reply",
+        "comment": "@AngryUser_X They usually do, give them a minute. It's Sunday.",
+        "timestamp": "15-02-2026 10:14:00"
+      },
+      {
+        "comment_id": 8,
+        "parent_comment_id": 7,
+        "handler_id": "@AngryUser_X",
+        "type": "reply",
+        "comment": "Scammers don't take Sundays off @ChillGuy22. My friend lost 5000 AED last month to a similar thing.",
+        "timestamp": "15-02-2026 10:16:30"
+      },
+      {
+        "comment_id": 9,
+        "parent_comment_id": null,
+        "handler_id": "@NewbieBanker",
+        "type": "comment",
+        "comment": "Does anyone know the official SMS header the bank uses? Mine came from a random mobile number.",
+        "timestamp": "15-02-2026 10:19:00"
+      },
+      {
+        "comment_id": 10,
+        "parent_comment_id": 9,
+        "handler_id": "@SecurityHawk",
+        "type": "reply",
+        "comment": "@NewbieBanker Official messages usually show the Bank Name as the sender, not a number. Block and report it.",
+        "timestamp": "15-02-2026 10:21:45"
+      },
+      {
+        "comment_id": 11,
+        "parent_comment_id": null,
+        "handler_id": "@LostInDubai",
+        "type": "comment",
+        "comment": "I almost fell for it. The landing page had the exact logo and font. Scarily accurate.",
+        "timestamp": "15-02-2026 10:25:10"
+      },
+      {
+        "comment_id": 12,
+        "parent_comment_id": null,
+        "handler_id": "@DailyRant",
+        "type": "comment",
+        "comment": "My uncle just called me panic-stricken. He gave them his CVV. Helping him block the card now.",
+        "timestamp": "15-02-2026 10:28:30"
+      },
+      {
+        "comment_id": 13,
+        "parent_comment_id": 12,
+        "handler_id": "@TechSavvy101",
+        "type": "reply",
+        "comment": "@DailyRant Make sure he changes his app password too, not just the card.",
+        "timestamp": "15-02-2026 10:30:00"
+      },
+      {
+        "comment_id": 14,
+        "parent_comment_id": null,
+        "handler_id": "@JustAsking",
+        "type": "comment",
+        "comment": "Is this affecting only one bank or multiple? I saw a similar post about another bank yesterday.",
+        "timestamp": "15-02-2026 10:33:15"
+      },
+      {
+        "comment_id": 15,
+        "parent_comment_id": null,
+        "handler_id": "@InsiderInfo",
+        "type": "comment",
+        "comment": "Rumor has it a third-party marketing vendor got hacked. That's how they have our numbers.",
+        "timestamp": "15-02-2026 10:36:00"
+      },
+      {
+        "comment_id": 16,
+        "parent_comment_id": 15,
+        "handler_id": "@FactChecker",
+        "type": "reply",
+        "comment": "@InsiderInfo Do you have a source for that? Or just spreading panic?",
+        "timestamp": "15-02-2026 10:38:20"
+      },
+      {
+        "comment_id": 17,
+        "parent_comment_id": 16,
+        "handler_id": "@InsiderInfo",
+        "type": "reply",
+        "comment": "@FactChecker Just what I heard on Reddit. But it explains why the texts are so targeted.",
+        "timestamp": "15-02-2026 10:40:50"
+      },
+      {
+        "comment_id": 18,
+        "parent_comment_id": null,
+        "handler_id": "@ScaredCustomer",
+        "type": "comment",
+        "comment": "I'm removing my money. This feels unsafe.",
+        "timestamp": "15-02-2026 10:43:00"
+      },
+      {
+        "comment_id": 19,
+        "parent_comment_id": 18,
+        "handler_id": "@RationalRick",
+        "type": "reply",
+        "comment": "@ScaredCustomer Relax. Phishing isn't a bank hack. It's social engineering. Your money is fine if you don't click fake links.",
+        "timestamp": "15-02-2026 10:45:10"
+      },
+      {
+        "comment_id": 20,
+        "parent_comment_id": 19,
+        "handler_id": "@ScaredCustomer",
+        "type": "reply",
+        "comment": "@RationalRick Easy for you to say. I'm not taking chances.",
+        "timestamp": "15-02-2026 10:47:30"
+      },
+      {
+        "comment_id": 21,
+        "parent_comment_id": null,
+        "handler_id": "@HelperBot_Fan",
+        "type": "comment",
+        "comment": "Reporting the domain to Google Safe Browsing right now. Everyone should do the same.",
+        "timestamp": "15-02-2026 10:50:00"
+      },
+      {
+        "comment_id": 22,
+        "parent_comment_id": null,
+        "handler_id": "@LateArrival",
+        "type": "comment",
+        "comment": "Guys, the link is down now. Looks like it's been taken offline.",
+        "timestamp": "15-02-2026 11:15:00"
+      },
+      {
+        "comment_id": 23,
+        "parent_comment_id": null,
+        "handler_id": "@FastClicker",
+        "type": "comment",
+        "comment": "Update: Bank blocked the transaction in time! They said their fraud detection caught it. Phew. 😅",
+        "timestamp": "15-02-2026 11:20:45"
+      },
+      {
+        "comment_id": 24,
+        "parent_comment_id": 23,
+        "handler_id": "@HappyCustomer",
+        "type": "reply",
+        "comment": "@FastClicker That's great news! See @AngryUser_X, the system works.",
+        "timestamp": "15-02-2026 11:25:10"
+      },
+      {
+        "comment_id": 25,
+        "parent_comment_id": null,
+        "handler_id": "@AngryUser_X",
+        "type": "comment",
+        "comment": "Still think they should have tweeted a warning earlier.",
+        "timestamp": "15-02-2026 11:30:00"
+      },
+      {
+        "comment_id": 26,
+        "parent_comment_id": null,
+        "handler_id": "@MarketingGuru",
+        "type": "comment",
+        "comment": "This is a classic 'Urgency' tactic. 'Expiring in 24 hours' shuts down critical thinking.",
+        "timestamp": "15-02-2026 11:45:00"
+      },
+      {
+        "comment_id": 27,
+        "parent_comment_id": null,
+        "handler_id": "@StudentLoanSadness",
+        "type": "comment",
+        "comment": "I didn't even get the text. Feeling left out of the scam party lol.",
+        "timestamp": "15-02-2026 11:55:00"
+      },
+      {
+        "comment_id": 28,
+        "parent_comment_id": null,
+        "handler_id": "@ElderCare",
+        "type": "comment",
+        "comment": "My grandmother just asked me about this. These people target the elderly specifically. Disgusting.",
+        "timestamp": "15-02-2026 12:10:00"
+      },
+      {
+        "comment_id": 29,
+        "parent_comment_id": null,
+        "handler_id": "@DigitalNative",
+        "type": "comment",
+        "comment": "Can we pin this post or something? People need to see the URL.",
+        "timestamp": "15-02-2026 12:25:00"
+      },
+      {
+        "comment_id": 30,
+        "parent_comment_id": null,
+        "handler_id": "@VerifyFirst",
+        "type": "comment",
+        "comment": "Rule #1: If you get a text about your account, open the official app directly. Never click links.",
+        "timestamp": "15-02-2026 12:40:00"
+      },
+      {
+        "comment_id": 31,
+        "parent_comment_id": null,
+        "handler_id": "@ConfusedUser",
+        "type": "comment",
+        "comment": "I got a call claiming to be from the fraud department asking if I received this text. Was that real??",
+        "timestamp": "15-02-2026 13:00:00"
+      },
+      {
+        "comment_id": 32,
+        "parent_comment_id": 31,
+        "handler_id": "@SecurityHawk",
+        "type": "reply",
+        "comment": "@ConfusedUser Did they ask for your PIN or password? If yes, SCAM. If they just alerted you, might be real.",
+        "timestamp": "15-02-2026 13:05:30"
+      },
+      {
+        "comment_id": 33,
+        "parent_comment_id": 32,
+        "handler_id": "@ConfusedUser",
+        "type": "reply",
+        "comment": "@SecurityHawk They asked me to confirm my date of birth. I hung up.",
+        "timestamp": "15-02-2026 13:08:00"
+      },
+      {
+        "comment_id": 34,
+        "parent_comment_id": 33,
+        "handler_id": "@SecurityHawk",
+        "type": "reply",
+        "comment": "@ConfusedUser Good call. Better safe than sorry. Call the number on the back of your card to check.",
+        "timestamp": "15-02-2026 13:10:00"
+      },
+      {
+        "comment_id": 35,
+        "parent_comment_id": null,
+        "handler_id": "@FinalWord",
+        "type": "comment",
+        "comment": "Stay safe everyone. The digital world is a minefield today.",
+        "timestamp": "15-02-2026 13:30:00"
+      },
+      {
+        "comment_id": 36,
+        "parent_comment_id": null,
+        "handler_id": "@LateToParty",
+        "type": "comment",
+        "comment": "Just saw this. Blocking that number now.",
+        "timestamp": "15-02-2026 14:00:00"
+      },
+      {
+        "comment_id": 37,
+        "parent_comment_id": null,
+        "handler_id": "@CommunityMod",
+        "type": "comment",
+        "comment": "We are tracking these reports. Please forward suspicious SMS to the official fraud email.",
+        "timestamp": "15-02-2026 14:30:00"
+      },
+      {
+        "comment_id": 38,
+        "parent_comment_id": null,
+        "handler_id": "@Realist",
+        "type": "comment",
+        "comment": "Tomorrow it will be a different link. Education is the only defense.",
+        "timestamp": "15-02-2026 15:00:00"
+      }
+    ]
+  },
+  {
+    "post_id": 402,
+    "channel": "social",
+    "author": "@Investigator_Doe",
+    "content": "Has anyone else seen this 'Official Investment Bot' ad on social media featuring the Bank's CEO? 🤖 It claims guaranteed 40% returns if you download a specific app. The video looks slightly off—the lip sync is lagging. Pretty sure it's a deepfake, but my dad is convinced it's real because 'the CEO said it.' This is getting dangerous.",
+    "timestamp": "16-02-2026 14:20:00",
+    "comments": [
+      {
+        "comment_id": 39,
+        "parent_comment_id": null,
+        "handler_id": "@AI_Watcher",
+        "type": "comment",
+        "comment": "100% a deepfake. I saw the same video but with a different celebrity last week.",
+        "timestamp": "16-02-2026 14:25:00"
+      },
+      {
+        "comment_id": 40,
+        "parent_comment_id": 39,
+        "handler_id": "@Investigator_Doe",
+        "type": "reply",
+        "comment": "It's terrifying how real the voice sounds though. We need an official denial ASAP.",
+        "timestamp": "16-02-2026 14:28:00"
+      },
+      {
+        "comment_id": 41,
+        "parent_comment_id": null,
+        "handler_id": "@SafetyFirst",
+        "type": "comment",
+        "comment": "Report the ad to the platform immediately. Banks never guarantee returns like that.",
+        "timestamp": "16-02-2026 14:40:00"
+      }
+    ]
+  },
+  {
+    "post_id": 403,
+    "channel": "social",
+    "author": "@DigitalNomad_User",
+    "content": "Getting WhatsApp messages from a 'Bank Support Agent' with a verified checkmark (in the profile pic, not the actual badge). They are saying a large international transfer was flagged and I need to verify my identity via a video call. Is the bank using WhatsApp for official compliance checks now? Seems sketchy. 🤨",
+    "timestamp": "17-02-2026 09:10:00",
+    "comments": [
+      {
+        "comment_id": 42,
+        "parent_comment_id": null,
+        "handler_id": "@BankPro",
+        "type": "comment",
+        "comment": "Absolutely not. No bank conducts compliance checks via WhatsApp video calls. Block them.",
+        "timestamp": "17-02-2026 09:15:00"
+      },
+      {
+        "comment_id": 43,
+        "parent_comment_id": 42,
+        "handler_id": "@DigitalNomad_User",
+        "type": "reply",
+        "comment": "Thought so. They were very aggressive when I asked for an email confirmation.",
+        "timestamp": "17-02-2026 09:18:00"
+      },
+      {
+        "comment_id": 44,
+        "parent_comment_id": 42,
+        "handler_id": "@VictimSupport",
+        "type": "reply",
+        "comment": "They record your face in the video call to use for biometric bypasses on other apps. Be careful!",
+        "timestamp": "17-02-2026 09:30:00"
+      }
+    ]
+  },
+  {
+    "post_id": 404,
+    "channel": "banking",
+    "author": "@SecureBankingAlerts",
+    "content": "SECURITY ALERT: We are receiving reports of callers impersonating bank staff claiming your 'KYC is pending' or 'Account Suspended' to steal OTPs. 🚫 The callers often use fear tactics to pressure you into acting fast. Remember: Bank staff will NEVER ask for your OTP, PIN, or Password over the phone. If you are unsure, hang up and call the number on the back of your card.",
+    "timestamp": "15-02-2026 16:00:00",
+    "comments": [
+      {
+        "comment_id": 45,
+        "parent_comment_id": null,
+        "handler_id": "@VictimZero",
+        "type": "comment",
+        "comment": "I wish I saw this yesterday. They sounded so professional, even had my name right.",
+        "timestamp": "15-02-2026 16:15:00"
+      },
+      {
+        "comment_id": 46,
+        "parent_comment_id": null,
+        "handler_id": "@SafetyFirst",
+        "type": "comment",
+        "comment": "Thanks for the reminder. I've told my parents to ignore unknown numbers.",
+        "timestamp": "15-02-2026 16:30:00"
+      },
+      {
+        "comment_id": 47,
+        "parent_comment_id": null,
+        "handler_id": "@Query123",
+        "type": "comment",
+        "comment": "Is there a way to report these numbers directly in the app?",
+        "timestamp": "15-02-2026 16:45:00"
+      }
+    ]
+  },
+  {
+    "post_id": 405,
+    "channel": "banking",
+    "author": "@BankOfficial",
+    "content": "CLARIFICATION: We are NOT running a 'Gold Rewards Points Expiry' campaign via SMS. ❌ Any message containing links to 'mashreq-rewards-update.com' or similar variations is fraudulent. Do not click these links or enter your card details. We are working with authorities to take down these phishing sites. Please conduct all reward redemptions strictly through our official mobile app.",
+    "timestamp": "16-02-2026 11:00:00",
+    "comments": [
+      {
+        "comment_id": 48,
+        "parent_comment_id": null,
+        "handler_id": "@RelievedUser",
+        "type": "comment",
+        "comment": "Thank you for the official statement! Sharing this with my family group chat.",
+        "timestamp": "16-02-2026 11:10:00"
+      },
+      {
+        "comment_id": 49,
+        "parent_comment_id": 48,
+        "handler_id": "@AngryUser_X",
+        "type": "reply",
+        "comment": "Finally! This should have been posted yesterday when the texts started going out.",
+        "timestamp": "16-02-2026 11:15:00"
+      },
+      {
+        "comment_id": 50,
+        "parent_comment_id": 49,
+        "handler_id": "@TechGuy",
+        "type": "reply",
+        "comment": "Good swift action. The phishing site seems to be down already.",
+        "timestamp": "16-02-2026 11:30:00"
+      }
+    ]
+  },
+  {
+    "post_id": 406,
+    "channel": "banking",
+    "author": "@BankSupport",
+    "content": "SCAM WARNING: Be aware of AI-generated videos (Deepfakes) circulating on social media featuring bank executives promoting 'Investment Bots'. 📉 These are fake. We do not endorse third-party trading bots or guarantee fixed high returns. Always verify investment offers through our official website or your relationship manager.",
+    "timestamp": "17-02-2026 10:00:00",
+    "comments": [
+      {
+        "comment_id": 51,
+        "parent_comment_id": null,
+        "handler_id": "@Investigator_Doe",
+        "type": "comment",
+        "comment": "Thanks for confirming. It was a very convincing video.",
+        "timestamp": "17-02-2026 10:05:00"
+      },
+      {
+        "comment_id": 52,
+        "parent_comment_id": 51,
+        "handler_id": "@CuriousGeorge",
+        "type": "reply",
+        "comment": "How do we report these videos when we see them on other platforms?",
+        "timestamp": "17-02-2026 10:20:00"
+      }
+    ]
+  }
+]

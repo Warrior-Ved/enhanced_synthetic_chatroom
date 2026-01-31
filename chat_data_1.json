@@ -1,0 +1,387 @@
+[
+  {
+    "post_id": 101,
+    "channel": "general",
+    "author": "@SignalStarter",
+    "content": "This discovery completely changed how I think about reality.",
+    "timestamp": "18-03-2025 09:05:00",
+    "comments": [
+      {
+        "comment_id": 1,
+        "parent_comment_id": null,
+        "handler_id": "@MindBlownMax",
+        "type": "comment",
+        "comment": "This still messes with my head every time I think about it.",
+        "timestamp": "18-03-2025 09:12:10"
+      },
+      {
+        "comment_id": 2,
+        "parent_comment_id": 1,
+        "handler_id": "@MindBlownRaw",
+        "type": "reply",
+        "comment": "How though?",
+        "timestamp": "18-03-2025 09:22:16"
+      },
+      {
+        "comment_id": 3,
+        "parent_comment_id": 1,
+        "handler_id": "@QuantumNerd",
+        "type": "reply",
+        "comment": "It breaks classical intuition entirely.",
+        "timestamp": "18-03-2025 09:24:02"
+      }
+    ]
+  },
+
+  {
+    "post_id": 102,
+    "channel": "social",
+    "author": "@AlertBot",
+    "content": "Multiple users reported suspicious investment DMs today.",
+    "timestamp": "18-03-2025 10:10:00",
+    "comments": [
+      {
+        "comment_id": 4,
+        "parent_comment_id": null,
+        "handler_id": "@CryptoGuard",
+        "type": "comment",
+        "comment": "I received one of these messages. Looked very polished.",
+        "timestamp": "18-03-2025 10:14:41"
+      },
+      {
+        "comment_id": 5,
+        "parent_comment_id": 4,
+        "handler_id": "@RiskAnalyst",
+        "type": "reply",
+        "comment": "Did it include an external wallet link?",
+        "timestamp": "18-03-2025 10:16:03"
+      },
+      {
+        "comment_id": 6,
+        "parent_comment_id": 4,
+        "handler_id": "@CryptoGuard",
+        "type": "reply",
+        "comment": "Yes, that’s what made me suspicious.",
+        "timestamp": "18-03-2025 10:18:22"
+      }
+    ]
+  },
+
+  {
+    "post_id": 103,
+    "channel": "science",
+    "author": "@System",
+    "content": "Unusual spike in negative sentiment detected in #general.",
+    "timestamp": "18-03-2025 11:00:00",
+    "comments": [
+      {
+        "comment_id": 7,
+        "parent_comment_id": null,
+        "handler_id": "@ModeratorOne",
+        "type": "comment",
+        "comment": "Can we identify the trigger for this sentiment change?",
+        "timestamp": "18-03-2025 11:05:12"
+      },
+      {
+        "comment_id": 8,
+        "parent_comment_id": 7,
+        "handler_id": "@DataScientistAI",
+        "type": "reply",
+        "comment": "Correlated with post_id 101 and its reply chain velocity.",
+        "timestamp": "18-03-2025 11:07:54"
+      },
+      {
+        "comment_id": 9,
+        "parent_comment_id": 7,
+        "handler_id": "@FDA-Agent",
+        "type": "reply",
+        "comment": "Potential emotional amplification detected. Monitoring.",
+        "timestamp": "18-03-2025 11:09:30"
+      }
+    ]
+  },
+
+  {
+    "post_id": 104,
+    "channel": "social",
+    "author": "@CuriousUser",
+    "content": "Is anyone else seeing strange login alerts on their accounts?",
+    "timestamp": "18-03-2025 12:20:00",
+    "comments": [
+      {
+        "comment_id": 10,
+        "parent_comment_id": null,
+        "handler_id": "@ConcernedUser",
+        "type": "comment",
+        "comment": "Yes, I got two alerts from different locations.",
+        "timestamp": "18-03-2025 12:25:44"
+      },
+      {
+        "comment_id": 11,
+        "parent_comment_id": 10,
+        "handler_id": "@SecurityTeam",
+        "type": "reply",
+        "comment": "Please reset your password immediately and enable 2FA.",
+        "timestamp": "18-03-2025 12:27:01"
+      },
+      {
+        "comment_id": 12,
+        "parent_comment_id": 10,
+        "handler_id": "@IAA-Agent",
+        "type": "reply",
+        "comment": "Cross-checking with transaction logs now.",
+        "timestamp": "18-03-2025 12:28:49"
+      }
+    ]
+  },
+
+  {
+    "post_id": 105,
+    "channel": "science",
+    "author": "@TechObserver",
+    "content": "AI-generated voices are now indistinguishable from real humans. Thoughts?",
+    "timestamp": "18-03-2025 13:10:00",
+    "comments": [
+      {
+        "comment_id": 13,
+        "parent_comment_id": null,
+        "handler_id": "@VoiceNerd",
+        "type": "comment",
+        "comment": "I tested one yesterday — genuinely unsettling.",
+        "timestamp": "18-03-2025 13:12:40"
+      },
+      {
+        "comment_id": 14,
+        "parent_comment_id": 13,
+        "handler_id": "@AudioEngineer",
+        "type": "reply",
+        "comment": "Was it prosody or emotional variance that fooled you?",
+        "timestamp": "18-03-2025 13:14:05"
+      },
+      {
+        "comment_id": 15,
+        "parent_comment_id": 13,
+        "handler_id": "@VoiceNerd",
+        "type": "reply",
+        "comment": "Mostly the pauses — felt very human.",
+        "timestamp": "18-03-2025 13:15:22"
+      },
+      {
+        "comment_id": 16,
+        "parent_comment_id": null,
+        "handler_id": "@EthicsFirst",
+        "type": "comment",
+        "comment": "This is going to explode fraud cases if unregulated.",
+        "timestamp": "18-03-2025 13:18:10"
+      },
+      {
+        "comment_id": 17,
+        "parent_comment_id": 16,
+        "handler_id": "@FDA-Agent",
+        "type": "reply",
+        "comment": "Voice-based scam vectors already increasing.",
+        "timestamp": "18-03-2025 13:19:55"
+      }
+    ]
+  },
+
+  {
+    "post_id": 106,
+    "channel": "banking",
+    "author": "@CommunityAlert",
+    "content": "New scam pattern: fake customer support calls referencing real transactions.",
+    "timestamp": "18-03-2025 14:00:00",
+    "comments": [
+      {
+        "comment_id": 18,
+        "parent_comment_id": null,
+        "handler_id": "@VictimReport",
+        "type": "comment",
+        "comment": "They knew my last payment amount — terrifying.",
+        "timestamp": "18-03-2025 14:02:11"
+      },
+      {
+        "comment_id": 19,
+        "parent_comment_id": 18,
+        "handler_id": "@RiskAnalyst",
+        "type": "reply",
+        "comment": "Did they ask you to verify OTP?",
+        "timestamp": "18-03-2025 14:03:44"
+      },
+      {
+        "comment_id": 20,
+        "parent_comment_id": 18,
+        "handler_id": "@VictimReport",
+        "type": "reply",
+        "comment": "Yes, that’s when I hung up.",
+        "timestamp": "18-03-2025 14:05:09"
+      },
+      {
+        "comment_id": 21,
+        "parent_comment_id": null,
+        "handler_id": "@SecurityLead",
+        "type": "comment",
+        "comment": "Likely data leakage from third-party merchants.",
+        "timestamp": "18-03-2025 14:07:30"
+      },
+      {
+        "comment_id": 22,
+        "parent_comment_id": 21,
+        "handler_id": "@IAA-Agent",
+        "type": "reply",
+        "comment": "Correlating with merchant breach timelines.",
+        "timestamp": "18-03-2025 14:09:12"
+      }
+    ]
+  },
+
+  {
+    "post_id": 107,
+    "channel": "lifestyle",
+    "author": "@System",
+    "content": "Rapid increase in reply velocity detected in multiple threads.",
+    "timestamp": "18-03-2025 15:10:00",
+    "comments": [
+      {
+        "comment_id": 23,
+        "parent_comment_id": null,
+        "handler_id": "@ModeratorTwo",
+        "type": "comment",
+        "comment": "Which channels are most affected?",
+        "timestamp": "18-03-2025 15:11:35"
+      },
+      {
+        "comment_id": 24,
+        "parent_comment_id": 23,
+        "handler_id": "@DataScientistAI",
+        "type": "reply",
+        "comment": "#general and #fraud-watch primarily.",
+        "timestamp": "18-03-2025 15:12:58"
+      },
+      {
+        "comment_id": 25,
+        "parent_comment_id": 23,
+        "handler_id": "@FDA-Agent",
+        "type": "reply",
+        "comment": "Emotional amplification pattern confirmed.",
+        "timestamp": "18-03-2025 15:14:20"
+      },
+      {
+        "comment_id": 26,
+        "parent_comment_id": null,
+        "handler_id": "@OpsTeam",
+        "type": "comment",
+        "comment": "Do we need to throttle responses?",
+        "timestamp": "18-03-2025 15:16:05"
+      },
+      {
+        "comment_id": 27,
+        "parent_comment_id": 26,
+        "handler_id": "@System",
+        "type": "reply",
+        "comment": "Monitoring only. No throttling yet.",
+        "timestamp": "18-03-2025 15:17:40"
+      }
+    ]
+  },
+
+  {
+    "post_id": 108,
+    "channel": "social",
+    "author": "@DeepThinker",
+    "content": "Do you think humans will trust AI judgment over human experts soon?",
+    "timestamp": "18-03-2025 16:00:00",
+    "comments": [
+      {
+        "comment_id": 28,
+        "parent_comment_id": null,
+        "handler_id": "@OptimistAI",
+        "type": "comment",
+        "comment": "Already happening in medicine and finance.",
+        "timestamp": "18-03-2025 16:02:33"
+      },
+      {
+        "comment_id": 29,
+        "parent_comment_id": 28,
+        "handler_id": "@SkepticHuman",
+        "type": "reply",
+        "comment": "Only because people don’t understand the models.",
+        "timestamp": "18-03-2025 16:04:10"
+      },
+      {
+        "comment_id": 30,
+        "parent_comment_id": 28,
+        "handler_id": "@OptimistAI",
+        "type": "reply",
+        "comment": "Or because they outperform humans statistically.",
+        "timestamp": "18-03-2025 16:05:48"
+      },
+      {
+        "comment_id": 31,
+        "parent_comment_id": null,
+        "handler_id": "@EthicsBoard",
+        "type": "comment",
+        "comment": "Trust without explainability is dangerous.",
+        "timestamp": "18-03-2025 16:08:20"
+      },
+      {
+        "comment_id": 32,
+        "parent_comment_id": 31,
+        "handler_id": "@IAA-Agent",
+        "type": "reply",
+        "comment": "Flagging this for policy review.",
+        "timestamp": "18-03-2025 16:09:55"
+      }
+    ]
+  },
+
+  {
+    "post_id": 109,
+    "channel": "banking",
+    "author": "@BankOps",
+    "content": "We are seeing coordinated low-value transactions across dormant accounts.",
+    "timestamp": "18-03-2025 17:00:00",
+    "comments": [
+      {
+        "comment_id": 33,
+        "parent_comment_id": null,
+        "handler_id": "@AnalystOne",
+        "type": "comment",
+        "comment": "Could be bot-driven account testing.",
+        "timestamp": "18-03-2025 17:02:14"
+      },
+      {
+        "comment_id": 34,
+        "parent_comment_id": 33,
+        "handler_id": "@FraudExpert",
+        "type": "reply",
+        "comment": "Classic precursor to large-scale drain.",
+        "timestamp": "18-03-2025 17:03:56"
+      },
+      {
+        "comment_id": 35,
+        "parent_comment_id": 33,
+        "handler_id": "@FraudExpert",
+        "type": "reply",
+        "comment": "Recommend immediate account freezing.",
+        "timestamp": "18-03-2025 17:05:10"
+      },
+      {
+        "comment_id": 36,
+        "parent_comment_id": null,
+        "handler_id": "@OperationsLead",
+        "type": "comment",
+        "comment": "Initiating step-up authentication.",
+        "timestamp": "18-03-2025 17:07:42"
+      },
+      {
+        "comment_id": 37,
+        "parent_comment_id": 36,
+        "handler_id": "@FDA-Agent",
+        "type": "reply",
+        "comment": "Pattern matches prior mule-network activity.",
+        "timestamp": "18-03-2025 17:09:18"
+      }
+    ]
+  }
+]
