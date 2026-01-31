@@ -1,0 +1,116 @@
+# ========================
+# Environment / Secrets
+# ========================
+.env
+.env.*.local
+.env.local
+.env.production.local
+.env.development.local
+*.secret
+*.key
+
+# ========================
+# Node / JavaScript
+# ========================
+node_modules/
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.python-version
+pip-log.txt
+venv/
+venv*/
+.env/
+env/
+env*/
+
+# ========================
+# Build / Dist
+# ========================
+dist/
+build/
+out/
+*.log
+*.tmp
+*.temp
+.cache/
+coverage/
+coverage-reports/
+
+# ========================
+# Docker
+# ========================
+docker-compose.override.yml
+docker-compose.*.yml
+Dockerfile.*
+*.dockerfile
+docker-sync.yml
+.env.docker
+
+# ========================
+# IDEs / Editors
+# ========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Python Virtual Env
+# ========================
+.venv/
+env/
+ENV/
+venv/
+
+# ========================
+# SQLite / DB
+# ========================
+*.sqlite3
+*.db
+*.db-journal
+
+# ========================
+# Logs
+# ========================
+*.log
+
+# ========================
+# Generated / Artifacts
+# ========================
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+
+# ========================
+# Temporary Files
+# ========================
+*.bak
+*.swp
+*~
+
+# ========================
+# Additional Items
+# ========================
+backend/chatroom.db
+backend/history.json
